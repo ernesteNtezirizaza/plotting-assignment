@@ -14,7 +14,7 @@ outputs/
     fescore_histogram.png
 ```
 
-- **fuel_econ.csv**: The dataset containing vehicle fuel economy and emissions data.
+- **fuel_econ.csv**: The vehicle fuel economy and emissions data dataset.
 - **Plotting_Assignment.ipynb**: Jupyter notebook with all code, analysis, and visualizations.
 - **outputs/**: Folder containing generated plots.
 
@@ -64,5 +64,4 @@ The notebook includes markdown cells interpreting the visualizations and discuss
 **Author:**  
 erneste & alice
 
-**License:**  
-[Specify license if needed]
+
